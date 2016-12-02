@@ -1,0 +1,37 @@
+[{
+	"name": "Nic",
+	"position": "dev",
+	"salary": "1"
+}, {
+	"name": "Sofie",
+	"position": "dev",
+	"salary": "2"
+}, {
+	"name": "Stephan",
+	"position": "qa",
+	"salary": "3"
+}, {
+	"name": "Johan",
+	"position": "qa",
+	"salary": "1"
+}, {
+	"name": "Johan",
+	"position": "hr",
+	"salary": "3"
+}, {
+	"name": "Mike",
+	"position": "dev",
+	"salary": "4"
+}, {
+	"name": "Mike",
+	"position": "dev",
+	"salary": "2"
+}, {
+	"name": "Jhon",
+	"position": "hr",
+	"salary": "3"
+}, {
+	"name": "Nat",
+	"position": "hr",
+	"salary": "1"
+}]
