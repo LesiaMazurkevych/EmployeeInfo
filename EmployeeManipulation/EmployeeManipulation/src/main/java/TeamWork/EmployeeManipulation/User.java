@@ -25,4 +25,4 @@ public class User {
 	public void setSalary(Integer salary) {
 		this.salary = salary;
 	}
-}
+	}

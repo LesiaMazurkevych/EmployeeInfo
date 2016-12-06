@@ -29,8 +29,25 @@
 }, {
 	"name": "Jhon",
 	"position": "hr",
+	"salary": "5"
+},{
+	"name": "Nat",
+	"position": "hr",
+	"salary": "2"
+},{
+	"name": "Jhon",
+	"position": "qa",
+	"salary": "4"
+},{
+	"name": "Johan",
+	"position": "dev",
 	"salary": "3"
-}, {
+},{
+	"name": "Nat",
+	"position": "qa",
+	"salary": "1"
+}, 
+{
 	"name": "Nat",
 	"position": "hr",
 	"salary": "1"
